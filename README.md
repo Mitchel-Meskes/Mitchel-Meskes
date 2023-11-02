@@ -1,6 +1,6 @@
 <h1><b>Welcome to my Github!</b></h1>
 
-<h3 align="center">A developer from the Netherlands</h3>
+<h3 align="center">Just some developer from the Netherlands</h3>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
