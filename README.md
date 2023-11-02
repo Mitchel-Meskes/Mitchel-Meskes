@@ -1,6 +1,9 @@
 <h1><b>Welcome to my Github!</b></h1>
-<div style="text-decoration:none">
-  <a href="https://www.instagram.com/m.meskes">Instagram</a>
-  <a href="https://nl.linkedin.com/in/mitchel-m-4778411a3">LinkedIn</a>
-</div>
 
+<h3 align="center">A developer from the Netherlands</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://nl.linkedin.com/in/mitchel-m-4778411a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitchel meskes" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m.meskes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.meskes" height="30" width="40" /></a>
+</p>
